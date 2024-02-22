@@ -1003,7 +1003,7 @@ input#tourstart.form-control {
 }
 .location-slider-2 .trip {
   width: 50px;
-  fill: #fff;
+  fill: #230802;
   transition: all 0.5s;
 }
 .location-slider-2 .location-item:hover .trip {
