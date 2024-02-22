@@ -1156,7 +1156,7 @@ input#tourstart.form-control {
   }
 }
 .tabs .tab-content {
-  margin-top: 10px;
+  margin-top: -10px;
 }
 .tabs .tab-pane h3 {
   font-weight: 600;
