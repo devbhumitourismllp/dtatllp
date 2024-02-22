@@ -201,7 +201,8 @@ section {
 }
 
 .blog-header .sticked {
-  background-color: #fff !important;
+  background-color: #000 !important;
+  text-color: #fff !important;
 }
 
 .header .logo img {
