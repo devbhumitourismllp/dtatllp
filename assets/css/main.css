@@ -958,7 +958,7 @@ section {
 }
 input#tourend.form-control,
 input#tourstart.form-control {
-  color: #fff;
+  color: #230802;
 }
 .quote form input.form-control:focus,
 .quote form select:focus {
@@ -997,7 +997,7 @@ input#tourstart.form-control {
   background-color: transparent;
 }
 .location-slider-2 .icon {
-  border: 3px solid #fff;
+  border: 3px solid #230802;
   padding: 1rem;
   border-radius: 100%;
 }
