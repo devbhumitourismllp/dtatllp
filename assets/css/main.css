@@ -1124,8 +1124,8 @@ input#tourstart.form-control {
   cursor: pointer;
 }
 .tabs .nav-link i {
-  padding-right: 15px;
-  font-size: 48px;
+  padding-right: 5px;
+  font-size: 58px;
 }
 .tabs .nav-link h4 {
   font-size: 16px;
@@ -1156,7 +1156,7 @@ input#tourstart.form-control {
   }
 }
 .tabs .tab-content {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .tabs .tab-pane h3 {
   font-weight: 600;
