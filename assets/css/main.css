@@ -218,7 +218,7 @@ section {
 ------------------------------*/
 .blog-details .article {
   box-shadow: 0 4px 16px rgba(var(--default-color-rgb), 0.1);
-  padding: 30px;
+  padding: 10px;
   font-family: var(--font-primary) !important;
 }
 
@@ -227,7 +227,7 @@ section {
   font-weight: bold;
 }
 .blog-details {
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .blog-details table {
