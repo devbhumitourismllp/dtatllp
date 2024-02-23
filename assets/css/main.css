@@ -216,8 +216,8 @@ section {
 .blog-header {
   transition: all 0.5s;
   z-index: 997;
-  height: 80px;
-  background-color: #000;
+  height: 120px;
+  background-color: transparent;
 }
 
 .header.sticked {
@@ -226,18 +226,18 @@ section {
   right: 0;
   left: 0;
   height: 70px;
-  background-color: #166100;
+  background-color: #F9E601;
   box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.1);
 }
 
 .blog-header .sticked {
   height: 70px;
-  background-color: #F9E601 !important;
+  background-color: #166100 !important;
   box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.1);
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 60px;
   margin-right: 6px;
 }
 
