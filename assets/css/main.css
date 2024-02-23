@@ -1140,7 +1140,7 @@ input#tourstart.form-control {
   border: none;
   padding: 6px 0px;
   transition: 0.3s;
-  color: #111111;
+  color: #000;
   border-radius: 0;
   display: flex;
   align-items: center;
@@ -1176,11 +1176,12 @@ input#tourstart.form-control {
     padding: 15px;
   }
   .tabs .nav-link i {
-    font-size: 24px;
+    font-size: 34px;
+    color: #000;
   }
 }
 .tabs .tab-content {
-  margin-top: -10px;
+  margin-top: 5px;
 }
 .tabs .tab-pane h3 {
   font-weight: 600;
