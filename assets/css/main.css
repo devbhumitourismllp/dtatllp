@@ -617,8 +617,8 @@ section {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  position: relative;
- 
+  height: 100%;
+  position: fixed;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
