@@ -1152,7 +1152,8 @@ input#tourstart.form-control {
   color: #fff;
   border-radius: 0;
   display: flex;
-  align-items: left;
+  align-items: center;
+  justify-items: center;
   cursor: pointer;
   background: #057500;
 }
@@ -1161,12 +1162,12 @@ input#tourstart.form-control {
   font-size: 58px;
 }
 .tabs .nav-link h4 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
   margin: 0;
 }
 .tabs .nav-link:hover {
-  color: #057500;
+  color: #FFC300;
 }
 .tabs .nav-link.active {
   background: #FFC300;
@@ -1179,7 +1180,7 @@ input#tourstart.form-control {
     line-height: 1;
     font-size: 36px;
     background: #FFC300;
-   color: #000;
+   text-color: #000;
   border-color: #000;
   }
 }
@@ -1187,19 +1188,19 @@ input#tourstart.form-control {
   .tabs .nav-link {
     padding: 15px;
     background: #FFC300;
-  color: #000;
+  text-color: #000;
   border-color: #000;
   }
   .tabs .nav-link i {
     font-size: 34px;
     color: #000;
     background: #FFC300;
-  color: #000;
+  text-color: #000;
   border-color: #000;
   }
 }
 .tabs .tab-content {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 .tabs .tab-pane h3 {
   font-weight: 600;
