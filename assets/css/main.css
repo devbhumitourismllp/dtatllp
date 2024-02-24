@@ -619,7 +619,7 @@ section {
 .hero {
   width: 100%;
   height: auto;
-  position: absolute;
+  position: block;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
