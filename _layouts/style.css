@@ -34,19 +34,19 @@
 }
 @font-face {
   font-family: "Laila";
-  src: url("assets/fonts/Laila/Laila-Bold.ttf") format("truetype");
+  src: url("fonts/Laila/Laila-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Laila";
-  src: url("assets/fonts/Laila/Laila-Medium.ttf") format("truetype");
+  src: url("fonts/Laila/Laila-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "Laila";
-  src: url("assets/fonts/Laila/Laila-SemiBold.ttf") format("truetype");
+  src: url("fonts/Laila/Laila-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
